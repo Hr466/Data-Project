@@ -1,0 +1,14 @@
+health
+healthy
+hospital
+hospitals
+insurance
+doctor
+doctors
+healthcare
+nurse
+flu
+medical
+nurses
+uninsured
+disease

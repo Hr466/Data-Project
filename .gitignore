@@ -1,0 +1,190 @@
+
+RI UCOA Data Cleaning/data/raw/excluding-capital-and-debt-service/desktop.ini
+UCOA Data Cleaning/data/raw/excluding-capital-and-debt-service/~$2016.xlsx
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+*.pgw
+*.gpx
+
+# large files
+ri-dunkin-routes/data/**/*.csv
+ri-dunkin-routes/data/**/**/*.png
+
+ri-executive-appointments/data/**/*.csv
+
+ri-held-for-study/data/**/*.csv
+
+ri-campaign-finance-fines/data/**/*.pdf
+ri-campaign-finance-fines/data/**/*.csv
+
+ri-schools-immunization/data/**/*.csv
+ri-state-of-the-state/output/wordcloud/*.png
+ri-state-of-the-state/output/word_count/**/*.csv
+ri-state-of-the-state/files/mask/rhode_island_highres.png
+ri-state-of-the-state/files/font/trebuc.ttf
+reddit-dataisbeautiful-battles/data/clean/placeholder.md
+reddit-dataisbeautiful-battles/data/clean/dataisbeautiful_tools.csv
+reddit-dataisbeautiful-battles/data/files/tools_manual.csv
+reddit-dataisbeautiful-battles/data/raw/competitions.csv
+reddit-dataisbeautiful-battles/data/raw/entries.csv
+reddit-dataisbeautiful-battles/data/raw/winners.csv
+covid-19-dashboard/covid-19.csv
+ri-covid-19-tracker/data/files/ri-covid-19.png
+311-firework-complaints/data/clean/pvd_fireworks.csv
+ri-covid-19-tracker/data/raw/ri-covid-19.csv
+ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
+ri-covid-19-tracker/data/raw/ri-covid-19.csv
+ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
+pvd-311-requests/data/clean/pvd_311_clean.csv
+pvd-311-requests/data/fireworks.csv
+pvd-311-requests/data/raw/pvd_311_raw.csv
+pvd-firework-complaints/data/clean/pvd_fireworks.csv
+pvd-firework-complaints/data/raw/311_Customer_Service_Requests.csv
+pvd-firework-complaints/data/raw/pvd_311_clean.csv
+pvd-firework-complaints/figures/yearly_graph.png
+ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
+ri-covid-19-tracker/data/raw/ri-covid-19.csv
+ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
+ri-covid-19-tracker/data/raw/ri-covid-19.csv
+ri-covid-19-tracker/data/clean/ri-covid-19-clean.csv
+ri-school-attendance/config.json
+ri-dunkin-isochrone/data/raw/*.geojson
+ri-dunkin-isochrone/data/clean/*.geojson
+ri-dunkin-isochrone/data/files/*
+
+cumberland-farms-locations/data/raw/*.geojson
+cumberland-farms-locations/data/clean/*.geojson
+cumberland-farms-locations/data/files/*.csv
+cumberland-farms-locations/config.json
+
+league-region-meta/data/raw/*.csv
+
+nhl-players-per-season/data/raw/*.json
+
+reddit-dogecoin-bot-tips/data/clean/*.csv
+reddit-dogecoin-bot-tips/data/raw/*.csv
+reddit-dogecoin-bot-tips/config.json
+
+ri-state-redistrict/data/clean/**/**/*.geojson
+gov-office-payroll/data/raw/bhddh_post_gina.csv
+
+nics-background-checks/data/clean/*.csv
+nics-background-checks/data/raw/*.csv
+states-rental-assistance/data/raw/November-ERA-Data.xlsx
+states-rental-assistance/data/raw/October-ERA-Data.xlsx
+states-rental-assistance/data/raw/September-ERA-Data.xlsx
+states-rental-assistance/state-rental-assistance-Oct.ipynb
+ri-state-redistrict/data/files/house_tl_2018_44_sldl.geojson
+ri-state-redistrict/data/files/senate_tl_2018_44_sldu.geojson
+ri-state-redistrict/current-districts.ipynb
+
+dels-isochrone/data/raw/*.geojson
+dels-isochrone/config.json
+dels-isochrone/data/clean/ri/combined.geojson
+dels-isochrone/data/clean/ri/combined_oos.geojson
+dels-isochrone/Untitled.ipynb
+dels-isochrone/Untitled1.ipynb
+hospital-staffing-shortage/test.csv
